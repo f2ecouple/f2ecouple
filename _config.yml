@@ -4,7 +4,7 @@
 
 # Site
 title: F2E COUPLE
-subtitle:
+subtitle: 我和Ta的前端博客，我们的前端成长！
 description:
 author: Shuang && Xiong
 email:
@@ -12,7 +12,7 @@ language:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://f2ecouple.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 tag_dir: tags
