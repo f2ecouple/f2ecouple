@@ -4,6 +4,9 @@ tags: css
 categories: xiong
 ---
 
+当人们感觉到“平滑”时，一般是每一秒在屏幕上绘画的帧数超过了某一个值（FPS),
+<!--more-->
+
 ##关于平滑
 当人们感觉到“平滑”时，一般是每一秒在屏幕上绘画的帧数超过了某一个值（FPS),
 有一个非官方的值，即超过了30或者是更多。
@@ -23,7 +26,7 @@ categories: xiong
 2.当屏幕的一部分需要被更新的时候，不管是一个节点的几何属性发生更改或者是样式更改。这种屏幕更新的
 操作叫做repaint.
 
-``` css
+``` html5
 var bStyle = document.body.style;
 bStyle.padding = "20px"; // reflow, repaint;
 bStyle.border = "10px solid red" //another reflow 和repaint
