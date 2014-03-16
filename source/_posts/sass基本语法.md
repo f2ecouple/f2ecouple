@@ -1,9 +1,9 @@
 title: sass基本语法
-layout: false
 date: 2014-03-15 23:26:51
-categories:
-tags:
+categories:  shuang
+tags: css
 ---
+
 Sass中的变量通常以$开头，并且变量名和值之间使用冒号分隔开。如果值后面有!default，则表示该值为默认值。除此之外，声明变量还可以以#{$variable}的形式插入。
 
 <!--more-->
